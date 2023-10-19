@@ -1,0 +1,4 @@
+repository "Priests And Devils_@huangzm28-mail2-sysu-edu-cn@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
